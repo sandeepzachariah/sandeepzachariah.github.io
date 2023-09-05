@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This page describes my academic experience and qualifications.
+
 
 Education
 ======
@@ -21,6 +21,7 @@ Education
     St. Thomas Residential School ([STRS](https://strstvm.org/))  
     Grade: 98%
 
+---
 
 Work experience
 ======
@@ -34,8 +35,10 @@ Work experience
 * **Summer Intern** : May 2019 - July 2019 \
   *Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in/))* \
   Modelling, Control and Simulation of 2R robotic manipulator.
+  
+---
 
 Skills
 ======
-* Programming Languages: Python, Matlab, C, C++, HTML, Verilog.
-* Softwares/Frameworks: OpenCV, SciLab, ROS, Proteus, LTSpice, DS Solidworks, LaTex. 
+* **Programming Languages**: Python, Matlab, C, C++, HTML, Verilog.
+* **Softwares/Frameworks**: OpenCV, SciLab, ROS, Proteus, LTSpice, DS Solidworks, LaTex. 
