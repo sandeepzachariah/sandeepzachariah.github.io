@@ -5,16 +5,13 @@ main:
 
   - title: "Projects"
     url: /projects/
+  
+  - title: "Awards"
+    url: /awards/
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     

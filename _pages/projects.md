@@ -14,19 +14,29 @@ Projects
 ======
 * **Underwater Image Enhancement** : July 2021 - April 2022\
 Underwater images are characterized by low contrast, color distortion, and poor visual appearance due to suspended particles' dispersion and scattering of light. We developed a novel fusion-based method that combines the Dark Channel Prior (DCP) and Retinex followed by different image enhancement methods. The color cast effect was removed using our own color balancing algorithms. Neural network methods, UNET and CycleGAN were also implemented to improve the quality of these images. Finally, we concluded the project by incorporating object detection and showed the superiority of our proposed method in the increased accuracy in detecting underwater objects.
+
 ---
+
 * **Modelling, Control and Simulation of Quadruped robots** : April 2021 - September 2021 \
 First the simulation was carried out in kinematics level using the closed loop inverse kinematics formulation for the 6D pose control of torso center and 4 foot end effector frames. Then the dynamics modelling was carried out using Composite Rigid body algorithm and Recursive Newton-Euler algorithm. Joint space and task space inverse dynamics control was used to achieve the desired pose of torso and foot frames. The control formulation also took into consideration the different types of constraints (holonomic, nonholonomic due to underactuation and virtual). Simulations were then carried out in MATLAB. Contact Impact Dynamics and compensation for constraint drifts were also modelled for simulation purposes.
+
 ---
+
 * **Brain Tumor classification using ResNet** : January 2021 - April 2021 \
 ResNet is a CNN architecture which was designed to enable hundreds of hidden layers to be stacked up without having performance degradation. This is achieved by make use of so-called identity shortcut connections to solve the problem of vanishing gradients. This project focused on the implementation of the architecture on tensorflow and comparison of various performance improving measures. Finally the model was deployed on a medical image dataset containing scan images of brain tumours.
+
 ---
+
 * **3-Band Audio Equalizer** : March 2020 - May 2020\
 An opamp based Audio Equalizer circuit was designed to individually vary the gain of Bass, Mid, and Treble. The circuit also included several other features such as distortion detection and master gain control. The design was carried out in Matlab and the circuit simulation was done in the Proteus software package.
+
 ---
+
 * **Electronic Voting Machine** : January 2020 - February 2020 \
 A 8051 micro-controller was used to build an Electronic Voting Machine (EVM) which could be used to vote for two candidates. A 16x2 LCD was incorporated into the design to view the results as well as the status of the election. The design and simulation were done in Proteus.
+
 ---
+
 * **Modelling, Control and Simulation of 2R Robotic manipulator** : May 2019 - July 2020\
 Initially, the general mathematical framework for kinematic analysis was studied and the relation between Joint space and Task space velocity kinematics was established in terms of task Jacobian. Then the manipulator dynamics were modelled based on Euler-Lagrange equations of motion. The CAD model of 2R Manipulator was generated using SolidWorks software package and the mass-inertia properties were extracted. The control design was carried out in both Joint space and Task space. The control design and simulation were carried out using MATLAB/SIMULINK. Finally, the manipulator linkages were analysed for their structural dynamic parameters using ANSYS software to ensure the absence of any control structure interaction.
 
