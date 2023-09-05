@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: 
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -12,54 +12,30 @@ This page describes my academic experience and qualifications.
 
 Education
 ======
-* Bachelor of Technology (BTech) : 2018 - 2022
-    Electronics and Communication Engineering 
-    National Institute of Technology Calicut
+* **Bachelor of Technology (BTech)** : 2018 - 2022 \
+    *Electronics and Communication Engineering* \
+    National Institute of Technology Calicut ([NITC](https://nitc.ac.in/)) \
     CGPA: 9.75/10
-* High School : 2016 - 2018
-    St. Thomas Residential School
+* **High School** : 2016 - 2018 \
+    *Indian School Certificate (ISC)* \
+    St. Thomas Residential School ([STRS](https://strstvm.org/))  
     Grade: 98%
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Project Scientist**: July 2022 - current \
+   *Indian Institute of Technology Delhi ([IITD](https://home.iitd.ac.in/))* \
+   Development of a Cognitive model for an Intelligent Robotic Teammate.
+* **Project Intern** : April 2021 - September 2021 \
+  *Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in/))* \
+  Modelling, Control and Simulation of Quadruped robots.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* **Summer Intern** : May 2019 - July 2019 \
+  *Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in/))* \
+  Modelling, Control and Simulation of 2R robotic manipulator.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python, Matlab, C, C++, HTML, Verilog.
+* Softwares/Frameworks: OpenCV, SciLab, ROS, Proteus, LTSpice, DS Solidworks, LaTex. 
