@@ -25,7 +25,7 @@ Awards
 *National Institute of Technology Calicut - September 2023*
 
 * **Certificate Of Merit** for securing the first position in first semester exams of B-tech in Electronics and Communication Department with a SGPA of 9.65/10.\
-*National Institute of Technology Calicut - September 2023*
+*National Institute of Technology Calicut - January 2019*
 
 * **Merit Award** for securing the second rank at school level for Indian School Certificate (ISC) exam with 98%. \
 *St. Thomas Residential School - January 2019*

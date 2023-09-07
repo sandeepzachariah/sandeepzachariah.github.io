@@ -18,7 +18,8 @@ Underwater images are characterized by low contrast, color distortion, and poor 
 ---
 
 * **Modelling, Control and Simulation of Quadruped robots** : April 2021 - September 2021 \
-First the simulation was carried out in kinematics level using the closed loop inverse kinematics formulation for the 6D pose control of torso center and 4 foot end effector frames. Then the dynamics modelling was carried out using Composite Rigid body algorithm and Recursive Newton-Euler algorithm. Joint space and task space inverse dynamics control was used to achieve the desired pose of torso and foot frames. The control formulation also took into consideration the different types of constraints (holonomic, nonholonomic due to underactuation and virtual). Simulations were then carried out in MATLAB. Contact Impact Dynamics and compensation for constraint drifts were also modelled for simulation purposes.
+First the simulation was carried out in kinematics level using the closed loop inverse kinematics formulation for the 6D pose control of torso center and 4 foot end effector frames. Then the dynamics modelling was carried out using Composite Rigid body algorithm and Recursive Newton-Euler algorithm. Joint space and task space inverse dynamics control was used to achieve the desired pose of torso and foot frames. The control formulation also took into consideration the different types of constraints (holonomic, nonholonomic due to underactuation and virtual). Simulations were then carried out in MATLAB. Contact Impact Dynamics and compensation for constraint drifts were also modelled for simulation purposes.\
+[Video1](https://youtu.be/GAu-791Tc70), [Video2](https://youtu.be/n5TkmluuKZQ)
 
 ---
 
