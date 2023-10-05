@@ -12,6 +12,11 @@ This page describes my academic experience and qualifications.
 
 Projects
 ======
+* **Development of a Cognitive Model for an Intelligent Robotic Teammate** : July 2022 - Current\
+A robot working as a teammate alongside a human must possess the ability to comprehend natural language instructions given by the user. The robot should be able to perceive the environment around it and generate the sequence of actions to complete the instructed task. Unlike in indoor environments, the uncertainities and dynamism of the outdoor environments make perception and planning for field robots challenging. To this extent, we created the system which monitors the execution of the low-level action and replans in case of any discrepancy between the expected and the perceived state. Furthermore, the partial observability of states in field settings adds to the complexity of the problem. In order to address this issue, our pipeline incorporates exploratory behaviors that are spawned by the planner when it encounters incomplete information, ensuring that a plan can be generated for the intended task. 
+
+---
+
 * **Underwater Image Enhancement** : July 2021 - April 2022\
 Underwater images are characterized by low contrast, color distortion, and poor visual appearance due to suspended particles' dispersion and scattering of light. We developed a novel fusion-based method that combines the Dark Channel Prior (DCP) and Retinex followed by different image enhancement methods. The color cast effect was removed using our own color balancing algorithms. Neural network methods, UNET and CycleGAN were also implemented to improve the quality of these images. Finally, we concluded the project by incorporating object detection and showed the superiority of our proposed method in the increased accuracy in detecting underwater objects.
 
