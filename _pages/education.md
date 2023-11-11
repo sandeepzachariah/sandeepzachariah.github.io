@@ -42,3 +42,4 @@ Skills
 ======
 * **Programming Languages**: Python, Matlab, C, C++, HTML, Verilog.
 * **Softwares/Frameworks**: OpenCV, SciLab, ROS, Proteus, LTSpice, DS Solidworks, LaTex. 
+* **System skills**: Linux, server and GPU cluster management, Networking. 
