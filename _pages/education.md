@@ -40,6 +40,8 @@ Work experience
 
 Skills
 ======
+* **Robot System Experience**: Clearpath Husky, UR5e manipulator, Franka Emika Panda Manipulator, Robotiq 3f-gripper, Force-Torque Sensor, Velodyne VLP-16, Hokuyo LiDAR, Intel Realsense and OAK-D cameras, Nvidia Orin.
 * **Programming Languages**: Python, Matlab, C, C++, HTML, Verilog.
 * **Softwares/Frameworks**: OpenCV, SciLab, ROS, Proteus, LTSpice, DS Solidworks, LaTex. 
 * **System skills**: Linux, server and GPU cluster management, Networking. 
+

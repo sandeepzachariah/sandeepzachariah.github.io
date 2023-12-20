@@ -12,16 +12,16 @@ redirect_from:
 
 Awards
 ======
-* **Vikram Sarabhai Ever Rolling Trophy** awarded for the best outgoing student of year 2022 \
+* **Vikram Sarabhai Ever Rolling Trophy** awarded for the best outgoing student of year 2022. \
  *National Institute of Technology Calicut - September 2023*
 
-* **Er M L Bapna Gold Medal** awarded for scoring the highest grade among all undergraduate students of the insitute.\
+* **Er M L Bapna Gold Medal** awarded for scoring the highest grade among all undergraduate students of the insitute (Institute Rank 1).\
 *National Institute of Technology Calicut - September 2023*
 
-* **Prof. Allesu Kanjirathinkal Memorial Award** awarded for scoring the highest grade among all B.Tech students of the institute. \
+* **Prof. Allesu Kanjirathinkal Memorial Award** awarded for scoring the highest grade among all B.Tech students of the institute (Institute Rank 1). \
 *National Institute of Technology Calicut - September 2023*
 
-* **Gold Medal** for the outstanding scholastic performance in Electronics and Communication Engineering (B.Tech) with a CGPA of 9.75/10. \
+* **Gold Medal** for the outstanding scholastic performance in Electronics and Communication Engineering (B.Tech) with a CGPA of 9.75/10 (Department Rank 1). \
 *National Institute of Technology Calicut - September 2023*
 
 * **Certificate Of Merit** for securing the first position in first semester exams of B-tech in Electronics and Communication Department with a SGPA of 9.65/10.\
