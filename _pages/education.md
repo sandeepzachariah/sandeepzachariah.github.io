@@ -25,7 +25,7 @@ Education
 
 Work experience
 ======
-* **Project Scientist**: July 2022 - current \
+* **Project Scientist**: July 2022 - July 2024 \
    *Indian Institute of Technology Delhi ([IITD](https://home.iitd.ac.in/))* \
    Development of a Cognitive model for an Intelligent Robotic Teammate.
 * **Project Intern** : April 2021 - September 2021 \

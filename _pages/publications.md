@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+Generating Open-World & Multi-Hierarchy Scene Graphs for Human-instructed Manip-
+ulation Tasks via Foundation Models
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
