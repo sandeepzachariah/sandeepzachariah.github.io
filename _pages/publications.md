@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**G2TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by
+Combining Large Pre-trained Models** \
+Riya Arora, Niveditha Narendranath, Aman Tambi, <ins>Sandeep S. Zachariah<ins>, Souvik Chakraborty, Rohan Paul
+arXiv
+[Paper](https://arxiv.org/abs/2410.07494), [Website](https://reail-iitdelhi.github.io/temporalreasoning.github.io/)
+
 **Generating Open-World & Multi-Hierarchy Scene Graphs for Human-instructed Manipulation 
 Tasks via Foundation Models** \
 <ins>Sandeep S. Zachariah</ins>, Aman Tambi, Moksh Malhotra, P. V. M. Rao and Rohan Paul \

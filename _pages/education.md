@@ -12,6 +12,10 @@ redirect_from:
 
 Education
 ======
+* **Master of Science** : 2024 - Present \
+    *Robotics* \
+    Carnegie Mellon University ([CMU](https://www.cmu.edu/)) \
+    CGPA: 4.17/4.0
 * **Bachelor of Technology (BTech)** : 2018 - 2022 \
     *Electronics and Communication Engineering* \
     National Institute of Technology Calicut ([NITC](https://nitc.ac.in/)) \
