@@ -11,7 +11,7 @@ redirect_from:
 
 Projects
 ======
-* **Leveraging Large Language Models for robotic systems**: May 2023 - Current\
+* **Leveraging Large Language Models for robotic systems**: May 2023 - June 2024\
 Current robotic systems face a critical limitation in their ability to interact with only a predefined set of objects. Even with the advent of vast and ever-expanding datasets, the system encounters a major challenge when confronted with objects outside this restricted domain. On the other hand, Large Language Models (LLMs) and Vision Language Models (VLMs), meticulously trained on extensive internet-scale data, can provide robots with prior knowledge, enabling them to ground and interact effectively with novel objects. The primary goal of this project is to utilize the zero-shot generalization capabilities of these models to create a holistic robotic system encompassing perception, planning, and lower-level behaviors.
 
 ---
