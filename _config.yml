@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sandeep S Zachariah"
 title_separator          : "-"
 name                     : &name "Sandeep S Zachariah"
-description              : &description "personal description"
+description              : &description "MS in Robotics @ Carnegie Mellon University | Robotics Research | Embodied AI | SLAM"
 url                      : https://sandeepzachariah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sandeepzachariah/sandeepzachariah.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, USA"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bBjxPj8AAAAJ"
   email            :  "sandeep.s.zac@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        : "sandeep_zac"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sandeep-zachariah-4100941a7/"
+  linkedin         : "sandeep-zachariah-4100941a7"
   orcid            :
   pinterest        :
   soundcloud       :
