@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year MS in Robotics student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/). I work with [Prof. Abhisesh Silwal](https://www.ri.cmu.edu/ri-people/abhisesh-silwal/) in the [Kantor Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics-lab/) on SLAM and 3D reconstruction for forest environments. My current research includes **MapForest** — a modular field robotics system for invasive species localization and forest mapping — and developing methods to merge under-canopy and above-canopy maps for comprehensive forest reconstruction.
+I'm a second-year MS in Robotics student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/). I work with [Prof. Abhisesh Silwal](https://www.ri.cmu.edu/ri-faculty/abhisesh-silwal/) in the [Kantor Lab](https://labs.ri.cmu.edu/kantorlab/) on SLAM and 3D reconstruction for forest environments. My current research includes **MapForest** — a modular field robotics system for invasive species localization and forest mapping — and developing methods to merge under-canopy and above-canopy maps for comprehensive forest reconstruction.
 
 Previously, I was a Project Scientist at the [Indian Institute of Technology Delhi](https://home.iitd.ac.in/) under [Prof. Rohan Paul](https://www.cse.iitd.ac.in/~rohanpaul/) and [Prof. P.V.M Rao](https://web.iitd.ac.in/~pvmrao/), where I worked on leveraging foundation models for embodied AI — developing open-world perception and planning methods for field and assistive robots, and building autonomy stacks with a focus on task planning and world modeling.
 

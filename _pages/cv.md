@@ -33,7 +33,7 @@ author_profile: true
 
 **Carnegie Mellon University, Robotics Institute** — Pittsburgh, USA &nbsp; *(Sep 2024 – Present)*
 : *Graduate Research Assistant, Kantor Lab*
-: SLAM and 3D reconstruction for forest environments. Built MapForest — a modular field robotics system for LiDAR-inertial mapping and invasive species localization (arXiv). Ongoing thesis: merging under-canopy and above-canopy maps by maximizing mutual information in a shared latent space of tree-likelihood fields. Advisor: [Prof. Abhisesh Silwal](https://www.ri.cmu.edu/ri-people/abhisesh-silwal/).
+: SLAM and 3D reconstruction for forest environments. Built MapForest — a modular field robotics system for LiDAR-inertial mapping and invasive species localization (arXiv). Ongoing thesis: merging under-canopy and above-canopy maps by maximizing mutual information in a shared latent space of tree-likelihood fields. Advisor: [Prof. Abhisesh Silwal](https://www.ri.cmu.edu/ri-faculty/abhisesh-silwal/).
 
 **Indian Institute of Technology Delhi** — New Delhi, India &nbsp; *(July 2022 – July 2024)*
 : *Project Scientist*
